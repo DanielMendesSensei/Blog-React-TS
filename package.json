@@ -2,7 +2,7 @@
   "homepage": "https://danielmendessensei.github.io/Blog-React-TS",
   "name": "blog-react-ts",
   "private": true,
-  "version": "0.0.1",
+  "version": "0.0.2",
   "type": "module",
   "scripts": {
     "dev": "vite",

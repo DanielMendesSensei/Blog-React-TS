@@ -8,7 +8,7 @@ The application is an example application demonstrating the integration of vario
 
 ## 📤Last Update
 
-Version 0.0.1 -> build: first launch!
+Version 0.0.2 -> build: deploy is here!
 
 🖥 To check the project deployment [click here](https://danielmendessensei.github.io/Blog-React-TS/)
 
