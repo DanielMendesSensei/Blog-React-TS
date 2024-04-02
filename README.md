@@ -10,15 +10,15 @@ The application is an example application demonstrating the integration of vario
 
 Version 0.0.1 -> build: first launch!
 
-🖥 To check the project deployment [click here]()
+🖥 To check the project deployment [click here](https://danielmendessensei.github.io/Blog-React-TS/)
 
 ## 📸 Screenshots
 
-[![Screenshot](./public/imgs/Screenshot1.png "Click on the image to go to the site")]()
+[![Screenshot](./public/imgs/Screenshot1.png "Click on the image to go to the site")](https://danielmendessensei.github.io/Blog-React-TS/)
 
-[![Screenshot](./public/imgs/Screenshot2.png "Click on the image to go to the site")]()
+[![Screenshot](./public/imgs/Screenshot2.png "Click on the image to go to the site")](https://danielmendessensei.github.io/Blog-React-TS/)
 
-[![Screenshot](./public/imgs/Screenshot3.png "Click on the image to go to the site")]()
+[![Screenshot](./public/imgs/Screenshot3.png "Click on the image to go to the site")](https://danielmendessensei.github.io/Blog-React-TS/)
 
 ## ⚙️Installation Requirements
 
