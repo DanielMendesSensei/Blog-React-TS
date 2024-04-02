@@ -21,7 +21,7 @@ const NewPost: React.FC = () => {
 
     try {
       await blogFetch.post("/posts", post);
-      navigate("/");
+      navigate("/Blog-React-TS");
     } catch (error) {
       console.error("Error creating post:", error);
     }

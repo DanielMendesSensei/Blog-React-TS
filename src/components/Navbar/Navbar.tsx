@@ -6,14 +6,14 @@ const Navbar = (): JSX.Element => {
   return (
     <nav className="navbar">
       <h1>
-        <Link to={`/`}>Blog</Link>
+        <Link to={`/Blog-React-TS`}>Blog</Link>
       </h1>
       <ul>
         <li>
-          <Link to={`/`}>Home</Link>
+          <Link to={`/Blog-React-TS`}>Home</Link>
         </li>
         <li>
-          <Link to={`/new`} className="new-btn">
+          <Link to={`/Blog-React-TS/new`} className="new-btn">
             New Post
           </Link>
         </li>
